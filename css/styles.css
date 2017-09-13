@@ -1,0 +1,37 @@
+.modal-dialog {
+  position: relative; !important;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] { -moz-appearance:textfield; }
+
+.ui-dialog {
+  position: fixed !important;
+}
+
+.ayuda {
+  cursor: pointer;
+  float: right;
+}
+.titulo-success {
+  background-color: #5cb85c !important;
+
+}
+.ui-dialog-titlebar {
+  background-color: #ff3111;
+  color:#ffffff;
+}
+
+.desembolso-style {
+  width: 59%;
+}
+.margen-izquierdo {
+  margin-left: 40px !important;
+}
+.form-control-porcentaje {
+  width: 65%;
+}
